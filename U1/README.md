@@ -14,27 +14,27 @@
 >## *Ejercicios realizados en esta unidad:*  
 ***E01 Biseccion:***  
 *Resultado del programa:*  
-![Biseccion](https://github.com/UP210537/UP210537_DSA/blob/master/U1/Imagenes/Biseccion.png)  
+![Biseccion](https://github.com/UP210537/UP210537_DSA/blob/main/U1/Imagenes/Biseccion.png)  
 
 ***E02 Secreto:***  
 *Resultado del programa:*  
-![Secreto](https://github.com/UP210537/UP210537_DSA/blob/master/U1/Imagenes/Secreto.png)  
+![Secreto](https://github.com/UP210537/UP210537_DSA/blob/main/U1/Imagenes/Secreto.png)  
 
 ***E03 Ticket:***  
 *Resultado del programa:*  
-![Ticket](https://github.com/UP210537/UP210537_DSA/blob/master/U1/Imagenes/Ticket.png)  
+![Ticket](https://github.com/UP210537/UP210537_DSA/blob/main/U1/Imagenes/Ticket.png)  
 
 ***E04 Bubble:***  
 *Resultado del programa:*  
-![Bubble](https://github.com/UP210537/UP210537_DSA/blob/master/U1/Imagenes/Bubble.png)  
+![Bubble](https://github.com/UP210537/UP210537_DSA/blob/main/U1/Imagenes/Bubble.png)  
 
 ***E05 Matriz sin repetir:***  
 *Resultado del programa:*  
-![MatrizSinRepetir](https://github.com/UP210537/UP210537_DSA/blob/master/U1/Imagenes/MatrizSinRepetir.png)  
+![MatrizSinRepetir](https://github.com/UP210537/UP210537_DSA/blob/main/U1/Imagenes/MatrizSinRepetir.png)  
 
 ***E06 Palindromo:***  
 *Resultado del programa:*  
-![Palindromo](https://github.com/UP210537/UP210537_DSA/blob/master/U1/Imagenes/Palindromo.png)  
+![Palindromo](https://github.com/UP210537/UP210537_DSA/blob/main/U1/Imagenes/Palindromo.png)  
 
 <center>  
 
