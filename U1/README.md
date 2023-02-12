@@ -3,7 +3,7 @@
 
 >## *Conociendo Python - Certificado de Python*  
 
-![CertificadoPython](https://github.com/UP210537/UP210537_DSA/blob/master/U1/Imagenes/CertificadoPyhon.png)  
+![CertificadoPython](https://github.com/UP210537/UP210537_DSA/blob/main/U1/Imagenes/CertificadoPyhon.png)  
 
 <center>  
 
